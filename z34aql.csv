@@ -1,34 +1,3 @@
-﻿"Importance of environmental issues varies across gender, education, age and income",,
-Percentage of respondents rating climate change and environmental issues as very important,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
 Country,Characteristic,Proportion
 BEL,Man,0.34
 BEL,Woman,0.34
@@ -120,3 +89,16 @@ SWE,Upper income quintiles,0.32
 USA,Lower income quintiles,0.35
 USA,Middle income quintile,0.34
 USA,Upper income quintiles,0.42
+BEL,Man,0.34
+BEL,Woman,0.34
+CAN,Man,0.37
+CAN,Woman,0.42
+CHE,Man,0.39
+CHE,Woman,0.35
+FRA,Man,0.41
+FRA,Woman,0.44
+GBR,Man,0.34
+GBR,Woman,0.35
+ISR,Man,0.26
+ISR,Woman,0.33
+NLD,Man,0.26
